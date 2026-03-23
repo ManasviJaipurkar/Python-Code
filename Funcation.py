@@ -1,3 +1,4 @@
+
 # 1. Function Without Parameters
 
 def greet():
