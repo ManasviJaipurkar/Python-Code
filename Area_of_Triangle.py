@@ -1,4 +1,3 @@
-
 # Two method's for finding area of triangle
 
 # Get input from the user
