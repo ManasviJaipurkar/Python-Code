@@ -12,6 +12,7 @@ print(f"The area of the triangle is: {area}")
 
 import math
 
+
 # Get input from the user
 
 a = float(input("Enter the length of side a: "))
