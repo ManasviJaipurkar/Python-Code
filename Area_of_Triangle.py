@@ -1,5 +1,6 @@
 
 
+
 # Two method's for finding area of triangle
 # Get input from the user
 base = float(input("Enter the base of the triangle: "))
