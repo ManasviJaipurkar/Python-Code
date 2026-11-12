@@ -12,7 +12,6 @@ area = 0.5 * base * height
 print(f"The area of the triangle is: {area}")
 
 
-
 import math
 
 # Get input from the user
